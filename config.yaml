@@ -1,0 +1,10 @@
+---
+
+  database:
+    host: "127.0.0.1"
+    user: "root"
+    password: "Catalog123$"
+    port: 3306
+    db: "machine_vision"
+
+  image_filepath: "./image_files"
